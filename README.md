@@ -1,2 +1,3 @@
 # pdftoimg
-This will convert your pdf to images
+This code will help you convert your pdf to images in just clicks
+
